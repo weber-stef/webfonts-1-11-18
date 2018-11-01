@@ -1,0 +1,42 @@
+<style type="text/css">
+body.site {
+  /* Browser-reset */
+  margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+body{font-family:Average Sans, sans-serif; font-weight:normal; }
+h1{font-family:PT Sans, sans-serif; font-weight:normal; }
+h2{font-family:PT Sans, sans-serif; font-weight:normal; }
+h3{font-family:PT Sans, sans-serif; font-size:14px; font-weight:normal; }
+h4{font-family:Open Sans, sans-serif; font-weight:normal; }
+h5{font-family:Open Sans, sans-serif; font-weight:800; }
+h6{font-family:Open Sans, sans-serif; font-weight:800; }
+.sp-megamenu-parent{font-family:PT Sans, sans-serif; font-weight:normal; }
+#sp-bottom{ background-color:#f5f5f5;padding:100px 0px; }
+body > header > img{
+  border:none !important;
+box-shadow: none;
+}
+/* Die  Menüliste wird horizontal ausgerichtet */
+ul  { list-style: none;
+  font-family:PT sans ;
+	font-size:1.2em ;} 
+ul li {display: block;
+float: left;}
+nav {
+  height: 200px;
+}
+ul >  li {
+  line-height: 90px;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #000;
+  margin: 0;
+
+}
+	</style>

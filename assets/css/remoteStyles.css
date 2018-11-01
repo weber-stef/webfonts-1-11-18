@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* I am remote */
+/* Browser Reset*/
+* {
+  margin: 0;
+  padding: 0;
+}
+
+img, iframe {
+	float: left;
+	margin:0 20px 0 0px;
+	border:1px solid white !important;
+	border-color:#fff;
+	box-shadow: 10px 10px 8px #888888;
+}
+
